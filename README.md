@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Efe Görkem Ümit</h1>
 <h3 align="center">Full Stack Developer, Security, Gamer, from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efegorkemumit" alt="efegorkemumit" /></a> </p>
 
 - 📝 I regularly write articles on [efegorkemumit.com](efegorkemumit.com)
 
@@ -11,6 +10,7 @@
 <a href="https://linkedin.com/in//efe-g%c3%b6rkem-%c3%bcmit-a084009b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/efe-g%c3%b6rkem-%c3%bcmit-a084009b/" height="30" width="40" /></a>
 <a href="https://instagram.com/efegorkemumitdigital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efegorkemumitdigital" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@efegorkemumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@efegorkemumit" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
