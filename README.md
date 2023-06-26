@@ -20,7 +20,6 @@
 <h1 align="center">Hi 👋, I'm Efe Görkem Ümit</h1>
 <h3 align="center">Full Stack Developer, Security, Gamer, from Turkey</h3>
 
-<img  align="center" width="128" src="https://yt3.googleusercontent.com/4zaZtrSpxLCmY_7SB8wYr6cXyl_6mtRj6vRAkSPDAhuwDYFwkUS0c5vI3m-IDs32KiyPg89TNA=s176-c-k-c0x00ffffff-no-rj"/>
 
 
 
