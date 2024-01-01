@@ -30,8 +30,9 @@
 
 
 
-- 📝 I regularly write articles on [efegorkemumit.com](efegorkemumit.com)
-
+- 📝 I regularly write articles  [efegorkemumit.com](efegorkemumit.com)
+- 📝 Udemy Discount Coupon Code  : https://efegorkemumit.com/indirimli-udemy-kurs-kuponlarim/
+- 📝 Udemy Profile  : https://www.udemy.com/user/efegrkemmit/
 
 
 <h3 align="left">Languages and Tools:</h3>
