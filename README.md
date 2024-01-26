@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFJanKA1CsBTw/profile-displaybackgroundimage-shrink_350_1400/0/1695377945355?e=1706140800&v=beta&t=8BTzXnUdx6qm0jBnureQ8Y8pEFdJF1epsOzAPFxmqKw"/>
+<img src="https://yt3.googleusercontent.com/g-d0FfHcXsDMQEI7xhK93f7JUIkiPWcdedqU8okfaMtch8dL8UukxjPM056qvyqZvpuiEQOvrw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
 
 
 <a href="https://www.instagram.com/efegorkemumit/" rel="nofollow">
