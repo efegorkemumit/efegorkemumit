@@ -30,7 +30,9 @@
 
 
 
-- 📝 I regularly write articles  [efegorkemumit.com](efegorkemumit.com)
+- 📝 Website   [efegorkemumit.com](efegorkemumit.com)
+- 📝 Youtube Subscribe  [[efegorkemumit.com](efegorkemumit.com)](https://www.youtube.com/@EfeGorkemUmit)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
