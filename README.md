@@ -1,7 +1,10 @@
-<img src="https://yt3.googleusercontent.com/g-d0FfHcXsDMQEI7xhK93f7JUIkiPWcdedqU8okfaMtch8dL8UukxjPM056qvyqZvpuiEQOvrw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
+<img src="https://yt3.googleusercontent.com/joPNUTo3z_fTCuNGbDtXT2Mk4JeVUpBvXAbvABPTwTi8Ml60QoVEF2RMWIgaIWwzcWUOUmZCIQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
 
 # 💫 About Me:
 🚀 YouTube: Subscribe to my channel.<br><br>🌍 Remote Jobs and Freelance: Open to opportunities.
+
+
+<a href="https://www.buymeacoffee.com/efegorkemumit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ## 🌐 Socials:
