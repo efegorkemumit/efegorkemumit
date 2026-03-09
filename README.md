@@ -3,7 +3,6 @@
 🚀 YouTube: Subscribe to my channel.<br><br>🌍 Remote Jobs and Freelance: Open to opportunities.
 
 
-<a href="https://www.buymeacoffee.com/efegorkemumit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ## 🌐 Socials:
